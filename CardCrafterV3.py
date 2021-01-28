@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as uReq
 
 
+#adding comment to learn how to commit
+
+
+
 # ===========Main Variables==============#
 # Main Window where widget opens!
 set_main_window_size(width=700,height=700)
