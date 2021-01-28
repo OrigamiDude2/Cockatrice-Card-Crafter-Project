@@ -1,0 +1,43 @@
+
+
+        set_value("##Set Card Name", "Hello World!")
+        set_value("##Card Description", "Hello World!")
+        set_value("##Card Layout", "Hello World!")
+        set_value("##Card Side", "Hello World!")
+        set_value("##Card Type", "Hello World!")
+        set_value("##Card Main Type", "Hello World!")
+        set_value("##Card Mana Cost", "Hello World!")
+        set_value("##Card Converted Mana Cost", "Hello World!")
+        set_value("##Card Colors", "Hello World!")
+        set_value("##Card Color Identity", "Hello World!")
+        set_value("##Card Power and Toughness", "Hello World!")
+        set_value("##Card Starting Loyalty", "Hello World!")
+        set_value("##Card Rarity", "Hello World!")
+        set_value("##Card Universal Unique Identifer", "Hello World!")
+        set_value("##Card Collector Number", "Hello World!")
+        set_value("##Card Multiverse ID", "Hello World!")
+        set_value("##Card Picture URL", "Hello World!")
+
+
+    if os.path.exists("card.png"):
+        os.remove("card.png")
+    else:
+        print("The file does not exist")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
